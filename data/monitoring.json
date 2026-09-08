@@ -1,4 +1,146 @@
 {
-  "generated_at": null,
-  "countries": {}
+  "generated_at": "2026-09-08T13:48:43.298855+00:00",
+  "countries": {
+    "Казахстан": {
+      "name": "Казахстан",
+      "url": "https://fsvps.gov.ru/importexport/kazahstan/",
+      "checked_at": "2026-09-08T13:48:33.295737+00:00",
+      "latest_detected_date": "2023-07-20",
+      "page_dates": [
+        {
+          "raw": "01.03.2010",
+          "date": "2010-03-01",
+          "type": "mentioned"
+        },
+        {
+          "raw": "12.02.2010",
+          "date": "2010-02-12",
+          "type": "mentioned"
+        },
+        {
+          "raw": "31.03.2015",
+          "date": "2015-03-31",
+          "type": "mentioned"
+        },
+        {
+          "raw": "20.07.2023",
+          "date": "2023-07-20",
+          "type": "mentioned"
+        }
+      ],
+      "page_hash": "cf590067e86b4398be20173fbd9863af079e55f01d65c91b6ea5cb59039cdd8a",
+      "documents_count": 0,
+      "documents": []
+    },
+    "Китай": {
+      "name": "Китай",
+      "url": "https://fsvps.gov.ru/importexport/kitay/",
+      "checked_at": "2026-09-08T13:48:35.249931+00:00",
+      "latest_detected_date": "2025-01-15",
+      "page_dates": [
+        {
+          "raw": "25.04.2017",
+          "date": "2017-04-25",
+          "type": "mentioned"
+        },
+        {
+          "raw": "28.08.2018",
+          "date": "2018-08-28",
+          "type": "mentioned"
+        },
+        {
+          "raw": "29.10.2018",
+          "date": "2018-10-29",
+          "type": "mentioned"
+        },
+        {
+          "raw": "23.11.2018",
+          "date": "2018-11-23",
+          "type": "mentioned"
+        },
+        {
+          "raw": "01.01.2010",
+          "date": "2010-01-01",
+          "type": "mentioned"
+        },
+        {
+          "raw": "17.09.2015",
+          "date": "2015-09-17",
+          "type": "mentioned"
+        },
+        {
+          "raw": "02.10.2024",
+          "date": "2024-10-02",
+          "type": "mentioned"
+        },
+        {
+          "raw": "15.01.2025",
+          "date": "2025-01-15",
+          "type": "mentioned"
+        }
+      ],
+      "page_hash": "929da1bb2d85477a8c8e27fa7f8a4cc97bbaf94bc2bbe0bf4594d63c4d35c99e",
+      "documents_count": 0,
+      "documents": []
+    },
+    "Узбекистан": {
+      "name": "Узбекистан",
+      "url": "https://fsvps.gov.ru/importexport/uzbekistan/",
+      "checked_at": "2026-09-08T13:48:37.255303+00:00",
+      "latest_detected_date": "2025-01-09",
+      "page_dates": [
+        {
+          "raw": "09.01.2025",
+          "date": "2025-01-09",
+          "type": "mentioned"
+        }
+      ],
+      "page_hash": "ef51ba86e018f6e2400b49232209890def85b291f38243e6bb75d8e89687d8f0",
+      "documents_count": 0,
+      "documents": []
+    },
+    "Турция": {
+      "name": "Турция",
+      "url": "https://fsvps.gov.ru/importexport/turtsiya/",
+      "checked_at": "2026-09-08T13:48:38.908533+00:00",
+      "error": "404 Client Error: Not Found for url: https://fsvps.gov.ru/importexport/turtsiya/",
+      "documents_count": 0,
+      "documents": []
+    },
+    "Беларусь": {
+      "name": "Беларусь",
+      "url": "https://fsvps.gov.ru/importexport/belarus/",
+      "checked_at": "2026-09-08T13:48:42.298697+00:00",
+      "latest_detected_date": "2026-07-08",
+      "page_dates": [
+        {
+          "raw": "31.03.2015",
+          "date": "2015-03-31",
+          "type": "mentioned"
+        },
+        {
+          "raw": "16.08.2024",
+          "date": "2024-08-16",
+          "type": "mentioned"
+        },
+        {
+          "raw": "08.07.2026",
+          "date": "2026-07-08",
+          "type": "mentioned"
+        }
+      ],
+      "page_hash": "12bf62ebfa829caadafb6f68aeee8565a677018a6119972443236f5f834ca424",
+      "documents_count": 1,
+      "documents": [
+        {
+          "title": "Сведения о предприятиях Республики Беларусь, продукция которых в 2013 году не соответствовала требованиям безопасности",
+          "url": "https://fsvps.gov.ru/fsvps-docs/ru/importExport/belarus/files/restrictionList.pdf",
+          "date": null,
+          "date_type": null,
+          "file_hash": "3ef345ce533b7fd36215303d754c4e2ee8b0a441a67b762de94c323c5d15ba5a",
+          "file_size": 68259
+        }
+      ]
+    }
+  }
 }
