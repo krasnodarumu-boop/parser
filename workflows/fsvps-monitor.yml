@@ -1,0 +1,50 @@
+name: FSVPS Requirements Monitor
+
+on:
+  # Автоматический запуск каждый день в 06:00 UTC
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Возможность запустить вручную из GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Run FSVPS monitor
+        run: |
+          python scraper/main.py
+
+      - name: Commit monitoring data
+        run: |
+          git config user.name "FSVPS Monitor Bot"
+          git config user.email "actions@github.com"
+
+          git add data/monitoring.json
+          git add data/latest-changes.json
+          git add data/changes-history.json
+
+          if git diff --cached --quiet; then
+            echo "Нет изменений для commit"
+          else
+            git commit -m "Update FSVPS monitoring data"
+            git push
+          fi
