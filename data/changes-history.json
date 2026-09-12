@@ -34,5 +34,14 @@
     "countries_with_errors": 1,
     "changes_count": 0,
     "changes": []
+  },
+  {
+    "generated_at": "2026-09-12T09:41:27.507305+00:00",
+    "monitor_version": "1.0",
+    "countries_configured": 5,
+    "countries_successfully_checked": 4,
+    "countries_with_errors": 1,
+    "changes_count": 0,
+    "changes": []
   }
 ]
