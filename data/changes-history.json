@@ -43,5 +43,31 @@
     "countries_with_errors": 1,
     "changes_count": 0,
     "changes": []
+  },
+  {
+    "generated_at": "2026-09-13T10:43:11.728557+00:00",
+    "monitor_version": "1.0",
+    "countries_configured": 5,
+    "countries_successfully_checked": 4,
+    "countries_with_errors": 1,
+    "changes_count": 1,
+    "changes": [
+      {
+        "country": "Казахстан",
+        "url": "https://fsvps.gov.ru/importexport/kazahstan/",
+        "latest_detected_date": "2026-09-09",
+        "changes": [
+          {
+            "type": "page_content_changed",
+            "message": "Изменилось текстовое содержимое страницы"
+          },
+          {
+            "type": "latest_date_changed",
+            "old_date": "2023-07-20",
+            "new_date": "2026-09-09"
+          }
+        ]
+      }
+    ]
   }
 ]
