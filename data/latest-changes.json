@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:43:11.728557+00:00",
+  "generated_at": "2026-09-14T11:05:26.118942+00:00",
   "monitor_version": "1.0",
   "countries_configured": 5,
   "countries_successfully_checked": 4,
@@ -9,7 +9,7 @@
     {
       "country": "Казахстан",
       "url": "https://fsvps.gov.ru/importexport/kazahstan/",
-      "latest_detected_date": "2026-09-09",
+      "latest_detected_date": "2023-07-20",
       "changes": [
         {
           "type": "page_content_changed",
@@ -17,8 +17,8 @@
         },
         {
           "type": "latest_date_changed",
-          "old_date": "2023-07-20",
-          "new_date": "2026-09-09"
+          "old_date": "2026-09-09",
+          "new_date": "2023-07-20"
         }
       ]
     }
