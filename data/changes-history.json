@@ -298,5 +298,59 @@
     "countries_with_errors": 1,
     "changes_count": 0,
     "changes": []
+  },
+  {
+    "generated_at": "2026-10-02T11:28:09.423546+00:00",
+    "monitor_version": "1.0",
+    "countries_configured": 5,
+    "countries_successfully_checked": 4,
+    "countries_with_errors": 1,
+    "changes_count": 4,
+    "changes": [
+      {
+        "country": "Казахстан",
+        "url": "https://fsvps.gov.ru/importexport/kazahstan/",
+        "latest_detected_date": "2023-07-20",
+        "changes": [
+          {
+            "type": "page_content_changed",
+            "message": "Изменилось текстовое содержимое страницы"
+          }
+        ]
+      },
+      {
+        "country": "Китай",
+        "url": "https://fsvps.gov.ru/importexport/kitay/",
+        "latest_detected_date": "2025-01-15",
+        "changes": [
+          {
+            "type": "page_content_changed",
+            "message": "Изменилось текстовое содержимое страницы"
+          }
+        ]
+      },
+      {
+        "country": "Узбекистан",
+        "url": "https://fsvps.gov.ru/importexport/uzbekistan/",
+        "latest_detected_date": "2025-01-09",
+        "changes": [
+          {
+            "type": "page_content_changed",
+            "message": "Изменилось текстовое содержимое страницы"
+          }
+        ]
+      },
+      {
+        "country": "Беларусь",
+        "url": "https://fsvps.gov.ru/importexport/belarus/",
+        "latest_detected_date": "2026-09-29",
+        "changes": [
+          {
+            "type": "page_content_changed",
+            "message": "Изменилось текстовое содержимое страницы"
+          }
+        ]
+      }
+    ]
   }
 ]
