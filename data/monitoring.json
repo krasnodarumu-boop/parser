@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:50:32.417289+00:00",
+  "generated_at": "2026-10-06T12:19:13.065449+00:00",
   "countries": {
     "Казахстан": {
       "name": "Казахстан",
       "url": "https://fsvps.gov.ru/importexport/kazahstan/",
-      "checked_at": "2026-10-05T12:50:21.938485+00:00",
+      "checked_at": "2026-10-06T12:19:03.035827+00:00",
       "latest_detected_date": "2023-07-20",
       "page_dates": [
         {
@@ -35,7 +35,7 @@
     "Китай": {
       "name": "Китай",
       "url": "https://fsvps.gov.ru/importexport/kitay/",
-      "checked_at": "2026-10-05T12:50:24.162786+00:00",
+      "checked_at": "2026-10-06T12:19:04.928921+00:00",
       "latest_detected_date": "2025-01-15",
       "page_dates": [
         {
@@ -86,7 +86,7 @@
     "Узбекистан": {
       "name": "Узбекистан",
       "url": "https://fsvps.gov.ru/importexport/uzbekistan/",
-      "checked_at": "2026-10-05T12:50:26.172989+00:00",
+      "checked_at": "2026-10-06T12:19:06.808433+00:00",
       "latest_detected_date": "2025-01-09",
       "page_dates": [
         {
@@ -102,7 +102,7 @@
     "Турция": {
       "name": "Турция",
       "url": "https://fsvps.gov.ru/importexport/turtsiya/",
-      "checked_at": "2026-10-05T12:50:27.967683+00:00",
+      "checked_at": "2026-10-06T12:19:08.549110+00:00",
       "error": "404 Client Error: Not Found for url: https://fsvps.gov.ru/importexport/turtsiya/",
       "documents_count": 0,
       "documents": []
@@ -110,7 +110,7 @@
     "Беларусь": {
       "name": "Беларусь",
       "url": "https://fsvps.gov.ru/importexport/belarus/",
-      "checked_at": "2026-10-05T12:50:31.417124+00:00",
+      "checked_at": "2026-10-06T12:19:12.065303+00:00",
       "latest_detected_date": "2026-09-29",
       "page_dates": [
         {
