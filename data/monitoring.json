@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T09:48:52.479193+00:00",
+  "generated_at": "2026-10-18T10:00:41.540861+00:00",
   "countries": {
     "Казахстан": {
       "name": "Казахстан",
       "url": "https://fsvps.gov.ru/importexport/kazahstan/",
-      "checked_at": "2026-10-17T09:48:43.085467+00:00",
-      "latest_detected_date": "2023-11-07",
+      "checked_at": "2026-10-18T10:00:31.327361+00:00",
+      "latest_detected_date": "2023-07-20",
       "page_dates": [
         {
           "raw": "01.03.2010",
@@ -26,21 +26,16 @@
           "raw": "20.07.2023",
           "date": "2023-07-20",
           "type": "mentioned"
-        },
-        {
-          "raw": "07.11.2023",
-          "date": "2023-11-07",
-          "type": "mentioned"
         }
       ],
-      "page_hash": "b1e17ec31b0beaeb31c6758784c5013d27df213b6cd1c95ba46b002d554f30f3",
+      "page_hash": "630e2419e92329b05eecd352e004c681922db0426a32ba626948102dd592adde",
       "documents_count": 0,
       "documents": []
     },
     "Китай": {
       "name": "Китай",
       "url": "https://fsvps.gov.ru/importexport/kitay/",
-      "checked_at": "2026-10-17T09:48:44.852385+00:00",
+      "checked_at": "2026-10-18T10:00:33.284204+00:00",
       "latest_detected_date": "2025-01-15",
       "page_dates": [
         {
@@ -91,7 +86,7 @@
     "Узбекистан": {
       "name": "Узбекистан",
       "url": "https://fsvps.gov.ru/importexport/uzbekistan/",
-      "checked_at": "2026-10-17T09:48:46.719413+00:00",
+      "checked_at": "2026-10-18T10:00:35.293353+00:00",
       "latest_detected_date": "2025-01-09",
       "page_dates": [
         {
@@ -107,7 +102,7 @@
     "Турция": {
       "name": "Турция",
       "url": "https://fsvps.gov.ru/importexport/turtsiya/",
-      "checked_at": "2026-10-17T09:48:48.305461+00:00",
+      "checked_at": "2026-10-18T10:00:37.012631+00:00",
       "error": "404 Client Error: Not Found for url: https://fsvps.gov.ru/importexport/turtsiya/",
       "documents_count": 0,
       "documents": []
@@ -115,7 +110,7 @@
     "Беларусь": {
       "name": "Беларусь",
       "url": "https://fsvps.gov.ru/importexport/belarus/",
-      "checked_at": "2026-10-17T09:48:51.479006+00:00",
+      "checked_at": "2026-10-18T10:00:40.540695+00:00",
       "latest_detected_date": "2026-09-29",
       "page_dates": [
         {
